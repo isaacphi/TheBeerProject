@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Beer Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">What\'s your drink?</string>
+    <string name="button_send">Go!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Your Drink</string>
+    <string name="action_search">Action Search</string>
+    <string name="dialog_wifi">Enable wi-fi?</string>
+    <string name="dialog_network">Looks like you\'re not online</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+
+</resources>
