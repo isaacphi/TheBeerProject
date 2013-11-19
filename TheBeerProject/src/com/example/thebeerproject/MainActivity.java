@@ -62,7 +62,6 @@ public class MainActivity extends Activity {
 				String message = editText.getText().toString();
 				intent.putExtra(EXTRA_MESSAGE, message);
 				startActivity(intent);
-				
 		    } else {
 		        // open settings, allow user to connect
 		    	DialogFragment networkDialog = new NetworkConnectDialogFragment();
